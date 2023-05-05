@@ -6,4 +6,6 @@ IMDb http://www.imdb.com/interfaces/
 
  
 TMDB https://www.themoviedb.org/ 
-![blue_square_2-d537fb228cf3ded904ef09b136fe3fec72548ebc1fea3fbbd1ad9e36364db38b](https://user-images.githubusercontent.com/123289046/236374771-8b6f38b2-a6ff-4b63-8e55-22fe214d428f.svg)
+
+![300370141_445684364259165_8893097931255509122_n](https://user-images.githubusercontent.com/123289046/236374964-b7efa17a-866c-4d5d-881a-42f683e6b4fb.png)
+
